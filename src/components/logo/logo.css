@@ -1,0 +1,13 @@
+.logo-container {
+  display: flex;
+  font-size: 1.5rem;
+  gap: 5px;
+  font-weight: 500;
+}
+
+.logo-first {
+  color: rgb(255, 0, 0);
+}
+
+.logo-second {
+}

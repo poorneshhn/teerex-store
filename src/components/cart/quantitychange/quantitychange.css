@@ -1,0 +1,24 @@
+.quantitychange-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.2rem;
+}
+
+.quantity-count {
+  background-color: white;
+  padding: 8px;
+  border-radius: 50%;
+}
+
+.pointer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  font-size: 2rem;
+  padding: 3px;
+  background-color: white;
+  border-radius: 50%;
+}

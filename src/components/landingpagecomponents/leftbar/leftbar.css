@@ -1,0 +1,17 @@
+.leftbar-container {
+  box-shadow: 0 0 10px #aaa;
+  background-color: #eee;
+  min-height: 400px;
+  width: 250px;
+
+  padding: 1rem;
+}
+.filters-container {
+  margin-bottom: 1rem;
+}
+
+.filter-type-label {
+  color: red;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}

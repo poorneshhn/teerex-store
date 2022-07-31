@@ -1,0 +1,14 @@
+.custom-checkbox-container {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+.custom-checkbox-checkbox {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
+
+.custom-checkbox-label {
+  color: #333;
+}

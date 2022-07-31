@@ -1,0 +1,14 @@
+.cart-summary {
+  min-height: 400px;
+  background-color: rgb(223, 238, 238);
+  color: black;
+  width: 100%;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.cart-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

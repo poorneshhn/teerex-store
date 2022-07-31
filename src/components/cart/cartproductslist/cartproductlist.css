@@ -1,0 +1,31 @@
+.cartproduct-list-container {
+  display: flex;
+  gap: 1rem;
+}
+.cartItem-list-container {
+  width: 100%;
+}
+
+.cartsummary-container {
+  min-width: 300px;
+}
+
+@media screen and (max-width: 992px) {
+  .cartproduct-list-container {
+    flex-direction: column;
+  }
+
+  .cartsummary-container {
+    max-width: 300px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .cartproduct-list-container {
+    flex-direction: column;
+  }
+
+  .cartsummary-container {
+    min-width: 100%;
+  }
+}

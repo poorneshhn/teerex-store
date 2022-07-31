@@ -1,0 +1,14 @@
+.custom-button {
+  border: none;
+  background-color: red;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0.8rem 1.2rem;
+  border-radius: 1rem;
+  font-size: 1.2rem;
+}
+
+.custom-button:active {
+  background-color: rgb(139, 0, 0);
+}

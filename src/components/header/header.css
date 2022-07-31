@@ -1,0 +1,26 @@
+.header-container {
+  min-height: 60px;
+  background-color: var(--var-header-bgcolor);
+  color: white;
+  padding: 5px 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-left {
+  flex: 1;
+}
+
+.header-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.header-links {
+  display: flex;
+  gap: 1rem;
+}

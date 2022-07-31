@@ -1,0 +1,25 @@
+.carticon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.cart-count {
+  font-size: 1.2rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: var(--var-header-bgcolor);
+  position: relative;
+  padding: 4px;
+  top: -15px;
+  right: -20px;
+  min-width: 20px;
+  min-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+}
+.carticon-image {
+  width: 40px;
+  height: 40px;
+}
