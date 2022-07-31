@@ -20,6 +20,14 @@ export const filtersList = [
         id: 4,
         label: "Black",
       },
+      {
+        id: 13,
+        label: "Grey",
+      },
+      {
+        id: 14,
+        label: "White",
+      },
     ],
   },
   {
